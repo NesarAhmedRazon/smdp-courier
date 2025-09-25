@@ -171,7 +171,7 @@ function update_order($order_id,$consignment_id, $status, $fee=0, $reason = null
             $order->update_status('wc-pickup_cancelled');
             break;
         case 'at-the-sorting-hub':
-            $order->update_status('wc-on_the_way');
+            $order->update_status('wc-at_sorting_hub');
             $order->add_order_note(__('At the Sorting Hub'), false);
             break;
         case 'in-transit':
