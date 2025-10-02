@@ -123,8 +123,8 @@ function add_edit_button_to_orders($actions, $order) {
 add_action('wp_enqueue_scripts', 'enqueue_custom_scripts'); 
 function enqueue_custom_scripts() {
     if (is_account_page() && is_user_logged_in()) {
-        wp_enqueue_script('smdpicker-order-edit', SMD_PICKER_PLUGIN_URL . 'assets/js/order-edit.js', ['jquery'], time(), true);
-        wp_enqueue_style('smdpicker-order-edit', SMD_PICKER_PLUGIN_URL . 'assets/style/order-edit.css', [], time());
+        wp_enqueue_script('smdpicker-order-edit', SMDP_COURIER_URL . 'assets/js/order-edit.js', ['jquery'], time(), true);
+        wp_enqueue_style('smdpicker-order-edit', SMDP_COURIER_URL . 'assets/style/order-edit.css', [], time());
     }
 }
 
