@@ -37,6 +37,7 @@ function add_consignment_id_field($order)
     $pkg_qty = get_post_meta($order->get_id(), '_pkg_qty', true);
     $pkg_qty = empty($pkg_qty) ? 1 : $pkg_qty;
     $package_desc = get_post_meta($order->get_id(), '_pkg_desc', true) == "" ? "Electronics Parts and ICs" : get_post_meta($order->get_id(), '_pkg_desc', true);
+    
 
     echo '<div class="form-field form-field-wide"> <label for="pathao_pkg_weight">' . __('Package Weight', SMDP_COURIER_DOMAIN) . ':</label> <input type="text" id="pkg_weight" name="pkg_weight" value="' . esc_attr($pkg_weight) . '" class="pathao-auto-save"> </div>';
     echo '<div class="form-field form-field-wide"> <label for="pathao_pkg_qty">' . __('Package Quantity', SMDP_COURIER_DOMAIN) . ':</label> <input type="text" id="pkg_qty" name="pkg_qty" value="' . esc_attr($pkg_qty) . '" class="pathao-auto-save"> </div>';
@@ -47,6 +48,7 @@ add_action('woocommerce_admin_order_data_after_shipping_address', 'add_pathao_ad
 function add_pathao_address_fields($order)
 {
     $order_id = $order->get_id();
+    $provider = get_post_meta($order_id, '_shipping_provider', true);
     $consignment_id = get_post_meta($order->get_id(), '_consignment_id', true);
     $pathao_city = get_post_meta($order_id, '_pathao_city', true);
     $pathao_zone = get_post_meta($order_id, '_pathao_zone', true);
@@ -54,6 +56,7 @@ function add_pathao_address_fields($order)
 
     // Get order's shipping city for auto-selection
     $order_city = get_post_meta($order_id, '_shipping_city', true);
+    $orderCitys = [];
 ?>
     <!-- <div class="pathao-address-section"><h4 style="margin-top:0;"><?php _e('Pathao Delivery Information', SMDP_COURIER_DOMAIN); ?></h4><div class="">s</div></div> -->
     <div class="pathao-address-section">

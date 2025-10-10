@@ -41,5 +41,6 @@ function smdpc_wooReady()
 {
     include_once('inc/order-status.php');
     require_once SMDP_COURIER_DIR . 'inc/shippingProvider.php';
+    require_once SMDP_COURIER_DIR . 'inc/shippingArea.php';
     include_once('pathao/core.php');
 }
