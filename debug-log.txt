@@ -1,0 +1,259 @@
+[04-May-2026 11:18:23 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:18:38 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:19:55 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:21:00 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:21:05 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:22:12 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:22:16 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:23:45 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:24:21 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:24:45 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:25:17 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:25:44 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:26:07 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:26:47 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:26:57 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:27:12 UTC] Post 19424 is not built with Elementor.
+[04-May-2026 11:27:57 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:28:03 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:28:19 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:28:25 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:28:52 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:29:04 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:30:13 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:30:41 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:30:50 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product.php:326
+Stack trace:
+#0 /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product-debug.php(27): pn_send_product()
+#1 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(1292): syncTest()
+#2 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request()
+#3 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch()
+#4 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api.php(467): WP_REST_Server->serve_request()
+#5 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp-hook.php(341): rest_api_loaded()
+#6 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#7 /home/nesarahmed121/smdpicker.com/wp-includes/plugin.php(570): WP_Hook->do_action()
+#8 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp.php(418): do_action_ref_array()
+#9 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp.php(821): WP->parse_request()
+#10 /home/nesarahmed121/smdpicker.com/wp-includes/functions.php(1343): WP->main()
+#11 /home/nesarahmed121/smdpicker.com/wp-blog-header.php(16): wp()
+#12 /home/nesarahmed121/smdpicker.com/index.php(17): require('/home/nesarahme...')
+#13 {main}
+  thrown in /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product.php on line 326
+[04-May-2026 11:31:15 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:31:31 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:31:58 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:32:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product.php:326
+Stack trace:
+#0 /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product-debug.php(27): pn_send_product()
+#1 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(1292): syncTest()
+#2 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request()
+#3 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch()
+#4 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api.php(467): WP_REST_Server->serve_request()
+#5 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp-hook.php(341): rest_api_loaded()
+#6 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#7 /home/nesarahmed121/smdpicker.com/wp-includes/plugin.php(570): WP_Hook->do_action()
+#8 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp.php(418): do_action_ref_array()
+#9 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp.php(821): WP->parse_request()
+#10 /home/nesarahmed121/smdpicker.com/wp-includes/functions.php(1343): WP->main()
+#11 /home/nesarahmed121/smdpicker.com/wp-blog-header.php(16): wp()
+#12 /home/nesarahmed121/smdpicker.com/index.php(17): require('/home/nesarahme...')
+#13 {main}
+  thrown in /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product.php on line 326
+[04-May-2026 11:33:02 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:34:08 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:35:39 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:36:18 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product.php:326
+Stack trace:
+#0 /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product-debug.php(27): pn_send_product()
+#1 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(1292): syncTest()
+#2 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request()
+#3 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch()
+#4 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api.php(467): WP_REST_Server->serve_request()
+#5 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp-hook.php(341): rest_api_loaded()
+#6 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#7 /home/nesarahmed121/smdpicker.com/wp-includes/plugin.php(570): WP_Hook->do_action()
+#8 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp.php(418): do_action_ref_array()
+#9 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp.php(821): WP->parse_request()
+#10 /home/nesarahmed121/smdpicker.com/wp-includes/functions.php(1343): WP->main()
+#11 /home/nesarahmed121/smdpicker.com/wp-blog-header.php(16): wp()
+#12 /home/nesarahmed121/smdpicker.com/index.php(17): require('/home/nesarahme...')
+#13 {main}
+  thrown in /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product.php on line 326
+[04-May-2026 11:36:58 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product.php:331
+Stack trace:
+#0 /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product-debug.php(27): pn_send_product()
+#1 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(1292): syncTest()
+#2 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request()
+#3 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch()
+#4 /home/nesarahmed121/smdpicker.com/wp-includes/rest-api.php(467): WP_REST_Server->serve_request()
+#5 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp-hook.php(341): rest_api_loaded()
+#6 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#7 /home/nesarahmed121/smdpicker.com/wp-includes/plugin.php(570): WP_Hook->do_action()
+#8 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp.php(418): do_action_ref_array()
+#9 /home/nesarahmed121/smdpicker.com/wp-includes/class-wp.php(821): WP->parse_request()
+#10 /home/nesarahmed121/smdpicker.com/wp-includes/functions.php(1343): WP->main()
+#11 /home/nesarahmed121/smdpicker.com/wp-blog-header.php(16): wp()
+#12 /home/nesarahmed121/smdpicker.com/index.php(17): require('/home/nesarahme...')
+#13 {main}
+  thrown in /home/nesarahmed121/smdpicker.com/wp-content/plugins/smdp-courier/inc/sync-product.php on line 331
+[04-May-2026 11:37:23 UTC] PHP Deprecated:  Function wc_enqueue_js is <strong>deprecated</strong> since version 10.4.0! Use wp_add_inline_script instead. in /home/nesarahmed121/smdpicker.com/wp-includes/functions.php on line 6131
+[04-May-2026 11:44:41 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 11:44:53 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\elementor\includes\api.php on line 176
+[04-May-2026 11:45:17 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 11:45:25 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\elementor\includes\api.php on line 176
+[04-May-2026 11:45:41 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 11:45:50 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\elementor\includes\api.php on line 176
+[04-May-2026 11:46:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:46:35 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 11:46:35 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 11:46:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:46:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:46:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:46:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:46:59 UTC] PHP Notice:  Function WP_Scripts::add was called <strong>incorrectly</strong>. The script with the handle "rank-math-schema" was enqueued with dependencies that are not registered: rank-math-editor. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.9.1.) in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 11:46:59 UTC] PHP Notice:  Function WP_Scripts::add was called <strong>incorrectly</strong>. The script with the handle "rank-math-description-analysis" was enqueued with dependencies that are not registered: rank-math-editor. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.9.1.) in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 11:47:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:03 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 11:47:04 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-zoom in place of the previous handle zoom. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 11:47:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:47:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:48:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:48:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:48:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:48:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:48:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:48:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:48:43 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 11:48:43 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 11:48:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:48:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:48:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:49:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:49:09 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 11:49:09 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 11:49:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:49:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:49:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:51:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:52:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 11:52:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:05:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:05:26 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:05:26 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:05:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:05:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:05:30 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 12:05:31 UTC] PHP Notice:  Function the_widget was called <strong>incorrectly</strong>. Widgets need to be registered using <code>register_widget()</code>, before they can be displayed. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.9.0.) in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:05:33 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:05:33 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:05:36 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:05:39 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 12:05:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:05:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:05:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:06:04 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:06:04 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:06:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:06:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:06:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:07:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:07:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:07:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:07:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:07:38 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:07:38 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:07:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:07:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:07:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:10:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:12:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:12:13 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 12:12:13 UTC] PHP Notice:  Function the_widget was called <strong>incorrectly</strong>. Widgets need to be registered using <code>register_widget()</code>, before they can be displayed. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.9.0.) in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:14:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:16:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:18:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:35:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:35:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:36:24 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 12:42:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:42:25 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:42:25 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:42:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:42:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:42:32 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:42:32 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:42:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:42:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:42:39 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 12:44:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:44:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:44:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:44:53 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:44:53 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:44:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:44:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:44:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:47:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:49:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:51:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:51:06 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 12:51:09 UTC] PHP Notice:  Function the_widget was called <strong>incorrectly</strong>. Widgets need to be registered using <code>register_widget()</code>, before they can be displayed. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.9.0.) in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 12:53:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:55:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:57:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 12:59:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:01:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:03:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:03:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:03:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:03:16 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 13:03:16 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 13:03:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:03:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:03:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:05:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:05:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:05:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:05:24 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 13:05:24 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 13:05:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:05:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:05:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:07:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:07:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:07:13 UTC] {"wc_id":10836,"permalink":"\/product\/ti-tps54202ddcr-step-down-adjustable-dc-dc-converters\/","title":"Ti TPS54202DDCR Step-down Adjustable DC-DC Converters","sku":"S01573","stock":{"unit":"Pcs","quantity":98,"status":"instock"},"price":{"selling":19,"regular":19,"sale":null,"cost":0},"thumbnail":"http:\/\/old.local\/wp-content\/uploads\/2024\/05\/20180921_Texas-Instruments-TPS54202DDCR_C191884_front.jpg","gallery":[],"created_at":"2024-05-27 23:57:43","content":{"html":"","css":".elementor-10836 .elementor-element.elementor-element-a26ff64{--display:flex;}","js":""},"attributes":[{"wc_id":9,"name":"brand","label":"Brand","is_public":true,"values":[{"wc_id":218,"slug":"218","name":"-"}],"order":0},{"wc_id":12,"name":"manufacturer-part-number","label":"MFR#","is_public":true,"values":[{"wc_id":335,"slug":"335","name":"-"}],"order":1},{"wc_id":36,"name":"package-size","label":"Package\/Size","is_public":true,"values":[{"wc_id":853,"slug":"pa_package-size-unknown","name":"-"}],"order":2},{"wc_id":59,"name":"mounting","label":"Mounting","is_public":true,"values":[{"wc_id":629,"slug":"smd-smt","name":"SMD\/SMT"}],"order":4},{"wc_id":122,"name":"width","label":"Width","is_public":true,"values":[{"wc_id":1429,"slug":"pa_width-unknown","name":"-"}],"order":5},{"wc_id":125,"name":"height","label":"Height","is_public":true,"values":[{"wc_id":1437,"slug":"pa_height-unknown","name":"-"}],"order":6},{"wc_id":129,"name":"length","label":"Length","is_public":true,"values":[{"wc_id":1435,"slug":"pa_length-unknown","name":"-"}],"order":7},{"wc_id":17,"name":"easyeda-id","label":"LCSC Part #","is_public":true,"values":[{"wc_id":854,"slug":"pa_easyeda-id-unknown","name":"-"}],"order":8},{"wc_id":56,"name":"operating-temperature","label":"Operating Temperature","is_public":true,"values":[{"wc_id":1144,"slug":"pa_operating-temperature-unknown","name":"-"}],"order":8}],"categories":[{"wc_id":214,"name":"Power Management","slug":"power-management-ics-pmic","description":null,"parent":0},{"wc_id":189,"name":"DC-DC Converters","slug":"dc-dc-converters","description":null,"parent":214}],"metas":{"total_sales":"2","wc_average_rating":"0","wc_review_count":"0","wp_old_slug":"import-placeholder-for-1573","rank_math_news_sitemap_robots":"index","rank_math_analytic_object_id":"101","rank_math_internal_links_processed":"1","rank_math_seo_score":"7","smdpicker_sourcing_status":"","extra_documents":[],"smdp_moq":"1","woodmart_fbt_bundles_id":[""],"rating":"field_671e2cc8ff1c9","Number_Of_Rating":"field_671e2de027a49","rank_math_primary_product_brand":"0","rank_math_primary_product_cat":"0","tab_changed":"","wc_cog_cost":"0","seo":{"robots":["index"]},"trd_price":[{"qty":20,"price":18.5},{"qty":50,"price":18.2},{"qty":100,"price":17.6}]}}
+[04-May-2026 13:07:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:07:25 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 13:07:25 UTC] PHP Deprecated:  Function wp_enqueue_script was called with an argument that is <strong>deprecated</strong> since version 10.3.0! Please use the new handle wc-select2 in place of the previous handle select2. in D:\Works\backup\wp-includes\functions.php on line 6131
+[04-May-2026 13:07:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:07:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:07:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:08:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:08:14 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\Works\backup\wp-content\plugins\smdp-courier\inc\sync-product.php:444
+Stack trace:
+#0 D:\Works\backup\wp-content\plugins\smdp-courier\inc\sync-product.php(216): pn_send_product(10836)
+#1 D:\Works\backup\wp-includes\class-wp-hook.php(343): pn_maybe_save_and_sync(10836)
+#2 D:\Works\backup\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#3 D:\Works\backup\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 D:\Works\backup\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-meta-boxes.php(272): do_action('woocommerce_pro...', 10836, Object(WP_Post))
+#5 D:\Works\backup\wp-includes\class-wp-hook.php(343): WC_Admin_Meta_Boxes->save_meta_boxes(10836, Object(WP_Post))
+#6 D:\Works\backup\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#7 D:\Works\backup\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#8 D:\Works\backup\wp-includes\post.php(5194): do_action('save_post', 10836, Object(WP_Post), true)
+#9 D:\Works\backup\wp-includes\post.php(5296): wp_insert_post(Array, false, true)
+#10 D:\Works\backup\wp-admin\includes\post.php(453): wp_update_post(Array)
+#11 D:\Works\backup\wp-admin\post.php(227): edit_post()
+#12 {main}
+  thrown in D:\Works\backup\wp-content\plugins\smdp-courier\inc\sync-product.php on line 444
+[04-May-2026 13:08:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Works\backup\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\class-search-console.php on line 78
+[04-May-2026 13:08:19 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in D:\Works\backup\wp-content\plugins\schema-and-structured-data-for-wp\admin_section\structure-admin.php on line 1567
+[04-May-2026 13:08:20 UTC] PHP Notice:  Function the_widget was called <strong>incorrectly</strong>. Widgets need to be registered using <code>register_widget()</code>, before they can be displayed. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.9.0.) in D:\Works\backup\wp-includes\functions.php on line 6131

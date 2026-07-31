@@ -1,0 +1,11 @@
+[
+    {
+        "timestamp": "2025-10-28 17:51:01",
+        "data": {
+            "event": "order.created",
+            "consignment_id": "DL121224VS8TTJ",
+            "merchant_order_id": "TS-123",
+            "status": "received"
+        }
+    }
+]
