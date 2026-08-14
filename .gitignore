@@ -14,4 +14,4 @@ deprecated
 /vendor/
 .phpunit.result.cache
 *.log
-debug*
+debug**
