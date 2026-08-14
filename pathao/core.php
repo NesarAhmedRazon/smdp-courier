@@ -298,20 +298,32 @@ function get_pathao_settings()
 
 function pathao_auth_add_token_link()
 {
+    // Rendering only - actual processing happens on admin_init (see
+    // pathao_process_token_request_early below), before any HTML is sent,
+    // so wp_safe_redirect() inside pathao_handle_token_request() works.
     if (isset($_GET['tab']) && $_GET['tab'] === 'pathao') {
         echo '<div style="margin: 10px 0;">';
         echo '<a class="button button-primary" href="' . esc_url(add_query_arg('action', 'get_token')) . '">Get/Refresh Access Token</a> ';
         echo '<a class="button button-secondary" href="' . esc_url(add_query_arg('action', 'get_sandbox_token')) . '">Get/Refresh Sandbox Token</a>';
         echo '</div>';
     }
+}
 
-    // Handle token requests
-    if (isset($_GET['action'])) {
-        if ($_GET['action'] === 'get_token') {
-            pathao_handle_token_request(false);
-        } elseif ($_GET['action'] === 'get_sandbox_token') {
-            pathao_handle_token_request(true);
-        }
+add_action('admin_init', 'pathao_process_token_request_early');
+function pathao_process_token_request_early()
+{
+    if (!isset($_GET['tab']) || $_GET['tab'] !== 'pathao' || !isset($_GET['action'])) {
+        return;
+    }
+
+    if (!current_user_can('manage_woocommerce')) {
+        return;
+    }
+
+    if ($_GET['action'] === 'get_token') {
+        pathao_handle_token_request(false);
+    } elseif ($_GET['action'] === 'get_sandbox_token') {
+        pathao_handle_token_request(true);
     }
 }
 
@@ -332,11 +344,10 @@ function pathao_handle_token_request($is_sandbox = false)
 
     // Validate required fields
     if (empty($client_id) || empty($client_secret) || empty($base_url)) {
-        add_action('admin_notices', function () use ($label) {
-            echo '<div class="notice notice-error"><p>' . sprintf(__('%s credentials are incomplete. Please fill all required fields.', SMDP_TEXTDOMAIN), $label) . '</p></div>';
-        });
+        pathao_set_admin_notice('error', sprintf(__('%s credentials are incomplete. Please fill all required fields.', SMDP_TEXTDOMAIN), $label));
         error_log('Pathao: ' . $label . ' credentials incomplete');
-        return;
+        wp_safe_redirect(remove_query_arg('action'));
+        exit;
     }
 
     // Check if we should try refresh first
@@ -348,6 +359,8 @@ function pathao_handle_token_request($is_sandbox = false)
 
     $data = [];
 
+    $token = false;
+
     if (!empty($current_token) && !empty($refresh_token) && $expired) {
         // Try refresh token first
         error_log('Pathao: Attempting token refresh for ' . $label);
@@ -358,14 +371,20 @@ function pathao_handle_token_request($is_sandbox = false)
             'refresh_token' => $refresh_token,
             'base_url' => $base_url
         ];
-    } else {
-        // Use password grant
+        $token = pathao_auth_get_token($data);
+
+        if (!$token) {
+            error_log('Pathao: Refresh grant failed for ' . $label . ' - falling back to password grant');
+        }
+    }
+
+    // Fall back to password grant if we never had a refresh path, or the refresh attempt failed
+    if (!$token) {
         if (empty($client_email) || empty($client_password)) {
-            add_action('admin_notices', function () use ($label) {
-                echo '<div class="notice notice-error"><p>' . sprintf(__('%s email and password are required for initial authentication.', SMDP_TEXTDOMAIN), $label) . '</p></div>';
-            });
-            error_log('Pathao: ' . $label . ' email/password missing');
-            return;
+            pathao_set_admin_notice('error', sprintf(__('%s email and password are required for initial authentication (refresh token missing or invalid).', SMDP_TEXTDOMAIN), $label));
+            error_log('Pathao: ' . $label . ' email/password missing, cannot fall back');
+            wp_safe_redirect(remove_query_arg('action'));
+            exit;
         }
 
         error_log('Pathao: Attempting password grant for ' . $label);
@@ -377,9 +396,8 @@ function pathao_handle_token_request($is_sandbox = false)
             'base_url' => $base_url,
             'grant_type' => 'password'
         ];
+        $token = pathao_auth_get_token($data);
     }
-
-    $token = pathao_auth_get_token($data);
 
     if ($token) {
         // Store token with proper expiry time (current time + expires_in seconds)
@@ -388,18 +406,42 @@ function pathao_handle_token_request($is_sandbox = false)
         update_option($prefix . 'access_expires_in', $new_expiry);
         update_option($prefix . 'access_refresh_token', $token['refresh_token']);
 
-        add_action('admin_notices', function () use ($label, $new_expiry) {
-            echo '<div class="notice notice-success"><p>' .
-                sprintf(__('%s token obtained successfully! Expires: %s', SMDP_TEXTDOMAIN), $label, date('Y-m-d H:i:s', $new_expiry)) .
-                '</p></div>';
-        });
+        pathao_set_admin_notice('success', sprintf(__('%s token obtained successfully! Expires: %s', SMDP_TEXTDOMAIN), $label, date('Y-m-d H:i:s', $new_expiry)));
         error_log('Pathao: ' . $label . ' token obtained successfully. Expires: ' . date('Y-m-d H:i:s', $new_expiry));
     } else {
-        add_action('admin_notices', function () use ($label) {
-            echo '<div class="notice notice-error"><p>' . sprintf(__('Failed to obtain %s token. Please check your credentials.', SMDP_TEXTDOMAIN), $label) . '</p></div>';
-        });
+        pathao_set_admin_notice('error', sprintf(__('Failed to obtain %s token. Please check your credentials and the debug log.', SMDP_TEXTDOMAIN), $label));
         error_log('Pathao: Failed to obtain ' . $label . ' token');
     }
+
+    // Redirect back to a clean URL (strips ?action=...) so the notice above
+    // actually renders on the next admin_notices hook, and so reloading the
+    // page doesn't silently re-trigger the token request every time.
+    wp_safe_redirect(remove_query_arg('action'));
+    exit;
+}
+
+/**
+ * Store a one-shot admin notice in a transient and print it on the next
+ * page load's admin_notices hook. Needed because pathao_handle_token_request()
+ * runs on the 'woocommerce_settings_tabs_pathao' hook, which fires AFTER
+ * WordPress has already run 'admin_notices' for this request - registering
+ * add_action('admin_notices', ...) at that point never displays anything.
+ */
+function pathao_set_admin_notice($type, $message)
+{
+    set_transient('pathao_admin_notice', ['type' => $type, 'message' => $message], 60);
+}
+
+add_action('admin_notices', 'pathao_render_admin_notice');
+function pathao_render_admin_notice()
+{
+    $notice = get_transient('pathao_admin_notice');
+    if (!$notice) {
+        return;
+    }
+    delete_transient('pathao_admin_notice');
+    $class = $notice['type'] === 'success' ? 'notice-success' : 'notice-error';
+    echo '<div class="notice ' . esc_attr($class) . '"><p>' . esc_html($notice['message']) . '</p></div>';
 }
 
 /**
