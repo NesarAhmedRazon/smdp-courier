@@ -16,3 +16,4 @@ deprecated
 *.log
 debug**
 old.Inc
+.vscode
