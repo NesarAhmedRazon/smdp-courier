@@ -13,3 +13,5 @@ deprecated
 *.zip 
 /vendor/
 .phpunit.result.cache
+*.log
+debug*
