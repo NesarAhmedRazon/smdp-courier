@@ -15,3 +15,4 @@ deprecated
 .phpunit.result.cache
 *.log
 debug**
+old.Inc
